@@ -32,7 +32,7 @@
   }
 }
 
-.float-label-control { position: relative; margin-bottom: 1.5em; }
+.float-label-control { position: relative; margin-bottom: 1.5em; margin: auto 30% auto 30%;}
     .float-label-control ::-webkit-input-placeholder { color: transparent; }
     .float-label-control :-moz-placeholder { color: transparent; }
     .float-label-control ::-moz-placeholder { color: transparent; }
